@@ -1,0 +1,9 @@
+# Environment Variable
+.env
+
+# Libraries
+/node_modules
+/vendor
+
+# Storage
+/Storage
